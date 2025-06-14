@@ -1,3 +1,4 @@
+# Years have passed and you're still stuck in your C99
 # STM32 UART DMA RX and TX (REFACTORED to C++17 from Shpegun60)
 
 ## Example from Shpegun60 (Don't write complicated code, don't make life difficult for programmers)
