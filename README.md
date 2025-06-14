@@ -1,4 +1,5 @@
-# Don't get stuck in your paranoia of controlling everything in C99, but abstract and solve more real problems.
+# Years have passed and you're still stuck in your C99. 
+The compiler on Stm32CubeIde has evolved all the way to C++20, now ask yourself at what level of development are you stuck?
 # STM32 UART DMA RX and TX (REFACTORED to C++17 from Shpegun60)
 
 ## Example from Shpegun60 (Don't write complicated code, don't make life difficult for programmers)
