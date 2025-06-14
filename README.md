@@ -1,4 +1,4 @@
-# Years have passed and you're still stuck in your C99
+# Don't get stuck in your paranoia of controlling everything in C99, but abstract and solve more real problems.
 # STM32 UART DMA RX and TX (REFACTORED to C++17 from Shpegun60)
 
 ## Example from Shpegun60 (Don't write complicated code, don't make life difficult for programmers)
